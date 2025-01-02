@@ -18,7 +18,7 @@ API Spring Boot para geração de anagramas e processamento de pagamentos.
 
 ```bash
 # Clone o repositório
-git clone [url-do-repositorio]
+git clone https://github.com/DougNunes91/anagrama.git
 
 # Instale as dependências
 mvn install
